@@ -1,7 +1,7 @@
 # My React CRUD Project
 
 ## Live Link
-The live version of this project can be accessed [here](https://calm-mousse-ae068d.netlify.app/).
+The live version of this project can be accessed [Click here 🚀](https://calm-mousse-ae068d.netlify.app/).
 
 ## Description
 This project implements CRUD (Create, Read, Update, Delete) operations using React in the frontend. It utilizes Tailwind CSS for styling, Font Awesome for icons, and React Icons for additional icon support.
